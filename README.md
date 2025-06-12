@@ -1,0 +1,1 @@
+This C program is a decision support tool to predict the preterm birth (PTB) of a pregnant woman from her electrical impedance spectroscopy (EIS) measurement in mid-trimester (see "Instructions for Running the C Program.pdf"). 
