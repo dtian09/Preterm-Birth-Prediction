@@ -1,4 +1,3 @@
-Try AI directly in your favorite apps … Use Gemini to generate drafts and refine content, plus get Gemini Pro with access to Google's next-gen AI for £18.99 £9.49 for 2 months
 /*
 Program to predict the preterm birth (PTB) of a patient ID from all the EIS spectra of the ID.
 User Inputs: a patient id
@@ -8,9 +7,8 @@ Outputs: probability of PTB of the ID
          class label (preterm or onterm) using the cut-off value
 Given an ID from command line, the program predicts the PTB of the ID using random forest or logistic regression
 from the EIS spectra of the ID in 438_V1_all_eis_readings_real_imag_with_dummy_ids.csv.
-
-Written by David Tian
 */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
